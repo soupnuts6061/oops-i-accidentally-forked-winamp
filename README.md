@@ -7,6 +7,8 @@ Winamp is a multimedia player launched in 1997, iconic for its flexibility and w
 
 It really whips the llama's ass.
 
+Thisn th ing is a joke !
+
 ## Usage
 
 Building of the Winamp desktop client is currently based around Visual Studio 2019 (VS2019) and Intel IPP libs (You need to use exactly v6.1.1.035). There are different options of how to build Winamp:
